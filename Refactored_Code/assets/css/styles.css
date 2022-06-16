@@ -54,3 +54,7 @@ nav ul {
     background-size: cover;
     background-position: center;
 }
+
+.mainImg {
+    max-height: 200px;
+}
