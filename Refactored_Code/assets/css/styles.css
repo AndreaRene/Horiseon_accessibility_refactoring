@@ -20,6 +20,8 @@ h1 {
     font-size: 48px;
 }
 
+/* color of "seo" in Horiseon h1 */
+
 span {
     color: #d9dcd6;
 }
@@ -36,15 +38,21 @@ nav ul {
     list-style-type: none;
 }
 
+/* li elements in nav ul */
+
 .navLink {
     display: inline;
     margin-left: 25px;
 }
 
+/* a elements in nav ul li */
+
 .navClick {
     color: #fff;
     text-decoration: none;
 }
+
+/* img of meeting at top of main element */
 
 .hero {
     height: 800px;
@@ -53,6 +61,30 @@ nav ul {
     background-image: url("../imgs/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+}
+
+.mainSection {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.mainHead {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 .mainImg {
