@@ -45,3 +45,12 @@ a {
     color: #fff;
     text-decoration: none;
 }
+
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../imgs/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
