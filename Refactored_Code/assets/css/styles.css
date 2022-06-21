@@ -1,3 +1,5 @@
+/* universal  selectors */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,25 +10,27 @@ body {
     background-color: #d9dcd6;
 }
 
-header {
+/* end universal selectors */
+
+/* start of header with nav */
+
+#pageHeader {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #fff;
 }
 
-h1 {
+#pageHeader h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/* color of "seo" in Horiseon h1 */
-
-span {
+.seo {
     color: #d9dcd6;
 }
 
-nav {
+#topNav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -34,25 +38,25 @@ nav {
     font-size: 20px;
 }
 
-nav ul {
+#topNav ul {
     list-style-type: none;
 }
 
-/* li elements in nav ul */
 
 .navLink {
     display: inline;
     margin-left: 25px;
 }
 
-/* a elements in nav ul li */
 
 .navClick {
     color: #fff;
     text-decoration: none;
 }
 
-/* img of meeting at top of main element */
+/* end of header with nav */
+
+/* hero section */
 
 .hero {
     height: 800px;
@@ -63,11 +67,17 @@ nav ul {
     background-position: center;
 }
 
+/* end hero section */
+
+/* start of main section */
+
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* formatting for product descriptions */
 
 .mainSection {
     margin-bottom: 20px;
@@ -77,6 +87,7 @@ main {
     background-color: #0072bb;
     color: #fff;
 }
+
 
 .mainHead {
     margin-bottom: 20px;
@@ -96,6 +107,12 @@ main {
 .mainImg {
     max-height: 200px;
 }
+
+/* end of product section */
+
+/* end of main section */
+
+/* start of aside */
 
 aside {
     margin-right: 20px;
@@ -124,13 +141,19 @@ aside {
     max-width: 150px;
 }
 
-footer {
+/* end of aside */
+
+/* start of footer */
+
+#pageFooter {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footerHead {
+#pageFooter h2 {
     font-size: 20px;
 }
+
+/* end of footer */
