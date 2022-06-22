@@ -28,15 +28,20 @@ THEN I find a concise, descriptive title
 
 ## Starter Code
 
-The HTML and CSS starter code which were provided are located (url).
+The HTML and CSS starter files which were provided are located [here](https://github.com/AndreaRene/Module_1_Challenge/tree/main/Starter_Code).
 
-The starter HTML code was missing numerous semantic elements and was not optimized for accessibility. The CSS code had repeating selectors and properties which needed to be consildated and organized. 
-
-Finally, the webpage had a broken link which needed to be fixed.
+* The starter HTML code was missing numerous semantic elements and was not optimized for accessibility. 
+* The CSS code had repeating selectors and properties which needed to be consildated and organized. 
+* The webpage had a broken link which needed to be fixed.
 
 ### Refactoring
 
+My refactored HTML and CSS files are located [here](https://github.com/AndreaRene/Module_1_Challenge/tree/main/Refactored_Code).
 
+* Removed/replaced div elements in HTML code with more semantic elements including header, main, nav, and article.
+* Consolidated CSS selectos and properties by adding/changing classes/ids in elements with repeated styling.
+* Added commentation to CSS file.
+* Fixed broken link in HTML.
 
 
 ### Installing
