@@ -64,9 +64,9 @@ This is the screenshot provided in the original assignment:
 
 ![An image depicting a mock up of the page.](./assets/module-1-mock-up.png)
 
-### Deployed application: (url)
+### Deployed application
 
-This is the site with refactored code and matching resemblance/functionality to the original. 
+[This is the site](https://andrearene.github.io/Module_1_Challenge/) with refactored code and matching resemblance/functionality to the original. 
 
 ## Acknowledgments
 
