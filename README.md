@@ -26,17 +26,18 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-## Getting Started
+## Starter Code
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+The HTML and CSS starter code which were provided are located (url).
 
-### Prerequisites
+The starter HTML code was missing numerous semantic elements and was not optimized for accessibility. The CSS code had repeating selectors and properties which needed to be consildated and organized. 
 
-What things you need to install the software and how to install them
+Finally, the webpage had a broken link which needed to be fixed.
 
-```
-Give examples
-```
+### Refactoring
+
+
+
 
 ### Installing
 
