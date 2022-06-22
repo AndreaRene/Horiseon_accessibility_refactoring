@@ -54,10 +54,20 @@ My refactored HTML and CSS files are located [here](https://github.com/AndreaRen
 
 ![An image depicting portions of the HTML and CSS refactored code.](./assets/refactored-code-example.PNG)
 
+## Final Criteria
 
+The completed page needs to resemble the mock-up screenshot provided in the instructions (follows) and be deployed to a live URL.
+
+### Mock-Up screenshot
+
+This is the screenshot provided in the original assignment:
+
+![An image depicting a mock up of the page.](./assets/module-1-mock-up.png)
+
+### Deployed application: (url)
+
+This is the site with refactored code and matching resemblance/functionality to the original. 
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+Big thanks to my TA Chandler and my tutor Eric for being on the spot with help when I had questions!
